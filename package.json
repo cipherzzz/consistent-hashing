@@ -1,0 +1,20 @@
+{
+  "name": "ts-jest-starter",
+  "version": "1.0.0",
+  "description": "A simple cloneable ts with jest configured",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "cipherzzz",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "@types/uuid": "^9.0.7",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.3",
+    "uuid": "^9.0.1"
+  }
+}
